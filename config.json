@@ -1,0 +1,19 @@
+{
+    "api_id": "25345584",
+    "api_hash": "720f7fbca5c0153352a24db49b18db7e",
+    "source_channel": "-1002392764239",
+    "destination_channel": "-1002633835801",
+    "session_string": "1BVtsOHIBu4m6bR7q8m2KpiljtULTlG1P_lG9JdjNZ9rDnOgR2xVAuahcxeQl9C1iTBktWAsdLwLyY6u1uXYS64SDny6lwcTA84a6ISAUu5El8MpHGRPiOmAc3hyo3sK9Vr7JtUX90N4C3-Ve6oW2dxfU9TAGlin90pd-g8e_UuDxhH8abCxuwn6T16GVJKG5juDvlOBARAeRWbks-LNbYkED-0q3goMH2LrRnP3qmxzG7kPbrhUZ8JbFEOsFS4z3Ixa3v2c6dpxQO2fMZTwaO1mht4AvgsQmUzg30UHzKg9ODFZbsTFMbAXsFkGteWiotPrNiXqyOr6xCxzHkO1cty4nE6ACcLo=",
+    "text_filters": [
+        "@tarekrash3d->@Gazew_07",
+        "Code: ( TarekTeam ) 50% Deposit bounus->",
+        "**REGISTER HERE**->Use MTG 1 Step If Loss",
+        "REGISTER HERE->Use MTG 1 Step If Loss",
+        "إنــضــم إلـى فــريقـي->",
+        "****->"
+    ],
+    "replacement_image_path": "replacement_image.png",
+    "rate_limit_delay": 3,
+    "always_replace_media": false,
+    "forward_all_messages": true
+}
